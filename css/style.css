@@ -133,6 +133,7 @@ font-size: 25px;
 
 #divFoodSelection {
   width: 80%;
+  max-width: 100%;
 }
 
 #formLogIn,
@@ -327,6 +328,16 @@ margin-top: 8px;
 #mainOne tr td {
   color: #fff;
   }
+
+
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 600px) {
   body {
